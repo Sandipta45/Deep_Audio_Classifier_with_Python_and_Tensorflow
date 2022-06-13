@@ -1,0 +1,7 @@
+References:
+
+1. https://www.youtube.com/watch?v=ZLIPkmmDJAc&t=374s
+2. https://www.tensorflow.org/tutorials/audio/simple_audio
+3. https://towardsdatascience.com/custom-audio-classification-with-tensorflow-af8c16c38689
+4. https://www.analyticsvidhya.com/blog/2022/03/implementing-audio-classification-project-using-deep-learning/
+5. https://towardsai.net/p/l/a-gentle-introduction-to-audio-classification-with-tensorflow
